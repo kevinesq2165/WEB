@@ -1,7 +1,7 @@
 
 # Laboratorio - CRUD de Usuarios en ASP.NET Web Forms
 
-Ejercicio desarrollado para practicar la implementación de un **CRUD (Crear, Leer, Actualizar y Eliminar)** utilizando **C#, ASP.NET Web Forms, HTML, CSS, Bootstrap** y conexión a una base de datos MySQL.
+implementación de un **CRUD (Crear, Leer, Actualizar y Eliminar)** utilizando **C#, ASP.NET Web Forms, HTML, CSS, Bootstrap** y conexión a una base de datos MySQL.
 
 **Laboratorio de Desarrollo Web - CRUD**  
 **Universidad Tecnológica de Panamá - Facultad de Ingeniería en Sistemas**
